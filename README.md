@@ -24,7 +24,6 @@ The system demonstrates advanced OOP features like:
 
 <a href="https://onlinegdb.com/rFJwu618K" target="_blank">Run Vehicle Registry System</a>
 
-> Replace this with your actual OnlineGDB link
 
 ---
 
